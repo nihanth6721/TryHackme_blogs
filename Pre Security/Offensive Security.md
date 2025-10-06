@@ -102,7 +102,10 @@ They showcase how Gobuster discovers hidden directories and how the FakeBank por
 
 <div align="center">
 
-🎥 **Screen Recording** <video src="https://github.com/nihanth6721/TryHackme_blogs/raw/main/Pre%20Security/Storage/Offensive%20security/Screen%20Recording%202025-10-06%20213952.mp4" controls width="80%"></video>
+🎥 **Screen Recording**
+
+[![Click to view screen recording](https://github.com/nihanth6721/TryHackme_blogs/raw/main/Pre%20Security/Storage/Offensive%20security/Screenshot%202025-10-06%20214150.png)](https://github.com/nihanth6721/TryHackme_blogs/blob/main/Pre%20Security/Storage/Offensive%20security/Screen%20Recording%202025-10-06%20213952.mp4)
+
 
 <br><br>
 
