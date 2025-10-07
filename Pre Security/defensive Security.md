@@ -49,7 +49,9 @@ We have a simplified interactive simulation of a SIEM. Follow the site simulatio
 ![screenshot2](https://raw.githubusercontent.com/nihanth6721/TryHackme_blogs/main/Pre%20Security/Storage/defensive%20security/Screenshot%202025-10-07%20193330.png)
 
 ---
-![screenshot3](https://raw.githubusercontent.com/nihanth6721/TryHackme_blogs/blob/main/Pre%20Security/Storage/defensive%20security/Screenshot%202025-10-07%20194040.png)
+![screenshot3](https://raw.githubusercontent.com/nihanth6721/TryHackme_blogs/main/Pre%20Security/Storage/defensive%20security/Screenshot%202025-10-07%20194040.png)
+
+----
 Simulating a SIEM screenshots:
 
 ![siem1](https://raw.githubusercontent.com/nihanth6721/TryHackme_blogs/main/Pre%20Security/Storage/defensive%20security/Screenshot%202025-10-07%20193839.png)  
